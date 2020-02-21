@@ -1,5 +1,5 @@
 {
-"data" : [
+"user" : [
   {"id":1,"first_name":"Elias","last_name":"Lemme","email":"elemme0@artisteer.com","gender":"Male"},
   {"id":2,"first_name":"Jonathan","last_name":"Lemin","email":"jlemin1@yahoo.co.jp","gender":"Male"},
   {"id":3,"first_name":"Margie","last_name":"Lowes","email":"mlowes2@wikia.com","gender":"Female"},
