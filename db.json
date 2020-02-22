@@ -11,14 +11,6 @@
   {"id":9,"first_name":"Tris","last_name":"Duny","email":"tduny8@columbia.edu","gender":"Male"},
   {"id":10,"first_name":"Garey","last_name":"Smickle","email":"gsmickle9@webs.com","gender":"Male"},
   {"id":11,"first_name":"Hatty","last_name":"Whitwam","email":"hwhitwama@amazon.co.uk","gender":"Female"},
-  {"id":12,"first_name":"Yoshiko","last_name":"Bramham","email":"ybramhamb@hostgator.com","gender":"Female"},
-  {"id":13,"first_name":"Jarad","last_name":"Sancto","email":"jsanctoc@phoca.cz","gender":"Male"},
-  {"id":14,"first_name":"Toddy","last_name":"Antoni","email":"tantonid@nbcnews.com","gender":"Male"},
-  {"id":15,"first_name":"Kayley","last_name":"Campbell","email":"kcampbelle@forbes.com","gender":"Female"},
-  {"id":16,"first_name":"Frasier","last_name":"Rigge","email":"friggef@qq.com","gender":"Male"},
-  {"id":17,"first_name":"Cora","last_name":"Dominiak","email":"cdominiakg@scribd.com","gender":"Female"},
-  {"id":18,"first_name":"Kerby","last_name":"Farny","email":"kfarnyh@bing.com","gender":"Male"},
-  {"id":19,"first_name":"Sheppard","last_name":"Attwoul","email":"sattwouli@dmoz.org","gender":"Male"},
-  {"id":20,"first_name":"Inger","last_name":"Fullick","email":"ifullickj@pinterest.com","gender":"Female"}
+  {"id":12,"first_name":"Yoshiko","last_name":"Bramham","email":"ybramhamb@hostgator.com","gender":"Female"}
   ] 
 }
